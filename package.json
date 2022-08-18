@@ -1,9 +1,9 @@
 {
-  "name": "Mundana",
+  "name": "Globalizacion",
   "description": "HTML Bootstrap Blogging Template",
   "version": "1.0.0",
-  "homepage": "https://www.wowthemes.net/mundana-free-html-bootstrap-template/",
-  "author": "WowThemesNet",
+  "homepage": "",
+  "author": "Miguel Ramirez",
   "license": "WowThemesNet License <https://www.wowthemes.net/freebies-license/>",
   "devDependencies": {
     "gulp": "^4.0.0",
