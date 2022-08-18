@@ -4,8 +4,6 @@ Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 
 [Live Demo](https://wowthemesnet.github.io/template-mundana-bootstrap-html/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-mundana-bootstrap-html/archive/master.zip)
 
-[![screenshot](assets/img/screenshot-mundana.png)](https://wowthemesnet.github.io/template-mundana-bootstrap-html/)
-
 ## Getting Started
 
 * [Theme Details](https://www.wowthemes.net/mundana-free-html-bootstrap-template/)
@@ -19,7 +17,7 @@ Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 
 ## Copyright
 
-Copyright (C) 2019 WowThemes.net.
+Copyright (C) 2022 WowThemes.net.
 
 Designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
